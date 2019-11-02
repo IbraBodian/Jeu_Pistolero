@@ -1,5 +1,5 @@
 # Jeu_Pistolero
-Jeu de démons et de pistolero réalisé en JavaFX (fichier 'Projet' à compiler avec Netbeans)
+Jeu de démons et de pistolero réalisé en JavaFX (fichier 'Projet' à compiler avec Netbeans).Projet inachevée, manque plusieurs fonctionalités et beaucoup de bug .Je compte le mofifier plus tard  
 
 
 Le but du projet est de créer un jeu (genre shoot them up) où vous incarnez un pistolero chargée de touer les démons. 
