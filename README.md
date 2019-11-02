@@ -2,7 +2,7 @@
 Jeu de démons et de pistolero réalisé en JavaFX (fichier 'Projet' à compiler avec Netbeans)
 
 
-Le but du projet est de créer un jeu (genre shoot them up) ou` vous incarnez un pistolero chargée de touer les démons. 
+Le but du projet est de créer un jeu (genre shoot them up) où vous incarnez un pistolero chargée de touer les démons. 
 Le jeu se joue sur une arène où évoluent les personnages. Vous dirigez le pistolero à l’aide du clavier. 
 Prévoir les mouvements verticales et horizontales pour le pistolero et pour les démons, et peut-être, pourquoi pas, sur les diagonales, 
 on peut imaginer que les 4 touches "ﬂlèches" sur le clavier provoquent les déplacements verticales et horizontales, mais modifiéees avec 
